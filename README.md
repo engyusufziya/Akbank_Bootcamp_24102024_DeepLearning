@@ -56,3 +56,5 @@ plot_confusion_matrix: Gerçek ve tahmin edilen sınıfları kullanarak confusio
 plot_random_predictions: Test setinden rastgele seçilen örneklerin gerçek ve tahmin edilen etiketlerini görselleştirir.
 Proje Sonuçları
 Bu projede oluşturulan model, balık türlerini sınıflandırmada oldukça başarılı sonuçlar vermiştir. Eğitim sürecinde kullanılan veri arttırma ve erken durdurma gibi teknikler, modelin aşırı öğrenmesini önlemiş ve performansı artırmıştır. Sonuçlar, eğitim ve doğrulama setlerinde elde edilen doğruluk değerleri ile test setinde hesaplanan doğruluk oranı üzerinden değerlendirildi.
+
+https://www.kaggle.com/code/yusufziyademirel/fish-classification-yusufziyademirel
